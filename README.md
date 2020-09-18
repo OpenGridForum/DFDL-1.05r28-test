@@ -4,9 +4,9 @@ description: v1.05r28
 
 # Data Format Description Language \(DFDL\) v1.0 Specification
 
-GFD-P-R.207                                                     Michael J Beckerle,  Owl Cyber Defense/Tresys  
-OGF DFDL WG                                                                                    Stephen M Hanson, IBM  
-dfdl-wg@ogf.org                                                                                               September 2020
+GFD-P-R.207 Michael J Beckerle, Owl Cyber Defense/Tresys  
+OGF DFDL WG Stephen M Hanson, IBM  
+dfdl-wg@ogf.org September 2020
 
 _**This is a OGF DFDL Workgroup draft document in preparation.**_
 
@@ -24,7 +24,7 @@ Status of This Document
 Grid Final Draft \(GFD\)
 
 Obsoletes  
-This document obsoletes GFD-P-R.174 dated January 2011 [\[[OBSOLETE\_DFDL]()\]](../29.-references.md#obsolete-dfdl).
+This document obsoletes GFD-P-R.174 dated January 2011[ \[OBSOLETE\_DFDL\]](29.-references.md).
 
 Copyright Notice  
 Copyright © Global Grid Forum \(2004-2006\). Some Rights Reserved. Distribution is unlimited.  
