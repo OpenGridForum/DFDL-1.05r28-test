@@ -24,7 +24,7 @@ Status of This Document
 Grid Final Draft \(GFD\)
 
 Obsoletes  
-This document obsoletes GFD-P-R.174 dated January 2011 \[[OBSOLETE\_DFDL]()\].
+This document obsoletes GFD-P-R.174 dated January 2011 [\[[OBSOLETE\_DFDL]()\]](../29.-references.md#obsolete-dfdl).
 
 Copyright Notice  
 Copyright © Global Grid Forum \(2004-2006\). Some Rights Reserved. Distribution is unlimited.  
